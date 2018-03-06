@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.MANAGE_USERS
+ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:5:5-70
+	android:name
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:6:5-73
+	android:name
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.MANAGE_APP_TOKENS
+ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:7:5-8:47
+	tools:ignore
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.MANAGE_OWN_CALLS
+ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:10:22-72
+application
+ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:12:5-31:19
+	android:label
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:12:18-50
+service#com.example.android.softkeyboard.SoftKeyboard
+ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:16:9-23:19
+	android:permission
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:17:17-74
+	android:name
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:16:18-45
+intent-filter#android.view.InputMethod
+ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:19:13-21:29
+action#android.view.InputMethod
+ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:20:17-67
+	android:name
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:20:25-64
+meta-data#android.view.im
+ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:22:13-88
+	android:resource
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:22:55-85
+	android:name
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:22:24-54
+activity#com.example.android.softkeyboard.ImePreferences
+ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:25:9-29:20
+	android:label
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:25:50-87
+	android:name
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:25:19-49
+intent-filter#android.intent.action.MAIN
+ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:26:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from C:\Users\jvillalobos\Documents\proyectos android\softkeyboard\app\src\main\AndroidManifest.xml:27:25-66
